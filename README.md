@@ -6,7 +6,7 @@ In the fast-paced healthcare industry, efficient hospital management is crucial 
 This system enables hospitals to manage patients, doctors, appointments, billing, and reports efficiently, ensuring smooth workflows and better healthcare services.
 
 Key Features:
-✅ User Authentication & Roles (Admin, Doctors, Patients)
+✅User Authentication & Roles (Admin, Doctors, Patients)
 ✅ Patient Management (Store and update patient records)
 ✅ Doctor Management (Assign doctors, manage availability)
 ✅ Appointment Scheduling (Book, update, or cancel appointments)
