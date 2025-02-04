@@ -6,11 +6,11 @@ In the fast-paced healthcare industry, efficient hospital management is crucial 
 This system enables hospitals to manage patients, doctors, appointments, billing, and reports efficiently, ensuring smooth workflows and better healthcare services.
 
 Key Features:
-✅User Authentication & Roles (Admin, Doctors, Patients)
-✅ Patient Management (Store and update patient records)
-✅ Doctor Management (Assign doctors, manage availability)
-✅ Appointment Scheduling (Book, update, or cancel appointments)
-✅ Billing & Payments (Generate bills, track payments)
+✅User Authentication & Roles (Admin, Doctors, Patients),
+✅ Patient Management (Store and update patient records),
+✅ Doctor Management (Assign doctors, manage availability),
+✅ Appointment Scheduling (Book, update, or cancel appointments),
+✅ Billing & Payments (Generate bills, track payments),
 ✅ Dashboard & Reports (Admin analytics for better decision-making)
 
 Technology Stack:
@@ -22,9 +22,9 @@ API Communication: Axios
 State Management: React Hooks
 
 Project Objectives:
-✅ Automate hospital workflows to reduce paperwork
-✅ Enhance patient experience with online booking & records
-✅ Improve doctor & staff coordination through digital management
+✅ Automate hospital workflows to reduce paperwork,
+✅ Enhance patient experience with online booking & records,
+✅ Improve doctor & staff coordination through digital management,
 ✅ Ensure secure access to sensitive medical data
 
 This Hospital Management System provides an efficient, scalable, and secure solution to modernize hospital operations, improving overall patient care.
